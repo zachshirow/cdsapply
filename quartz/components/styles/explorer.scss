@@ -18,7 +18,7 @@ button#explorer {
   }
 
   & .fold {
-    margin-left: 0.5rem;
+    margin-right: 0.5rem;
     transition: transform 0.3s ease;
     opacity: 0.8;
   }
@@ -121,7 +121,7 @@ svg {
 }
 
 .folder-icon {
-  margin-right: 5px;
+  margin-left: 5px;
   color: var(--secondary);
   cursor: pointer;
   transition: transform 0.3s ease;
