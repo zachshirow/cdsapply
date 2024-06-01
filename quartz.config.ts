@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fa-IR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "cdsapply.liara.run",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
