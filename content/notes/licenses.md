@@ -2,8 +2,8 @@
 title: 
 aliases: 
 tags:
-  - post
-date: "{{date}}"
+  - note
+date: 2024-06-02
 draft: false
 ---
 
