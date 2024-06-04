@@ -8,6 +8,7 @@ draft: false
 نویسندگان: 
 - دکتر محمود عزیزی
 - زکریا شیرمحمدلی
+- سلیمان عبادی
 
 محتوا
 - [[content-guide|راهنمای محتوای وبسایت]]
@@ -16,14 +17,17 @@ draft: false
 
 ## منو
 
-- [[about-cdsapply|درباره ما]]
+- [[about-us|درباره ما]]
 - [[countries|کشور ها]]
 - [[universities|دانشگاه ها]]
 - [[services|خدمات ما]]
 - [[testimonials|گواه نوشت]]
-- [[blog|وبلاگ]]
 - [[contact-us|تماس با ما]] 
-
+- نوشته ها
+	- [وبلاگ](/posts)
+	- [یادداشت ها](/notes)
+	- [ژورنال](journal)
 ## پوشه محتوا
+
 
 > file:/D:/obsidian/cdsapply

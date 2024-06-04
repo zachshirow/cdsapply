@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "notes/applications.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

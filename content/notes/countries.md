@@ -9,14 +9,12 @@ date: 2024-06-02
 draft: false
 ---
 
+موسسه اعزام دانشجو کندو طبق [[license|مجوزی که از وزارت علوم دارد]] با دانشگاه های سه کشور کانادا، انگلستان و روسیه جهت اعزام دانشجو به آنها فعالیت می کند. در این صفحه می توانید به محتوای مربوط به هر کدام از این کشور ها دسترسی داشته باشید. 
 
-## کانادا
-![](https://cdsapply.ir/wp-content/uploads/2023/11/1-1.jpg)
+![[canada]]
 
-## روسیه
-![](https://cdsapply.ir/wp-content/uploads/2023/11/12.jpg)
 
-## انگلستان
+![[united-kingdom]]
 
-![](https://cdsapply.ir/wp-content/uploads/2023/11/13.jpg)
 
+![[russia]]

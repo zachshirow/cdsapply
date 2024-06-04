@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "95b14abea47089ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "06eed97fbe9621eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8fe69b86473b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "877945fa06903b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "447654e5a0a30b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b92d03afa2e78b39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7d948f3076891a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:country",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b4b49026519dbfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc9ceb5188ef2e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c0a0b9127f9f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e580d02e7fc81b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d31157e848d7b7b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7922432342800dfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a8ad97d21b1125e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d1ff01c198575f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c790f5425009f7cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cd8fe69b86473b01",
+  "lastOpenFiles": [
+    "journal/2024-06-04.md",
+    "notes/license.md",
+    "notes/about-us.md",
+    "index.md",
+    "notes/cds-business-plan.md",
+    "notes/visa-interview-questions.md",
+    "notes/united-kingdom.md",
+    "Pasted image 20240604142447.png",
+    "notes/countries.md",
+    "notes/canada.md",
+    "notes/russia.md",
+    "notes/services.md",
+    "notes/student-permit-canada.md",
+    "notes/visa.md",
+    "notes/لیست دانشگاه ها.md",
+    "posts/پرطرفدار ترین رشته ها در کشور روسیه.md",
+    "notes/testimonials.md",
+    "journal/2024-06-02.md",
+    "templates/dailynote.md",
+    "journal/2024-06-03.md",
+    "journal/2024-06-01.md",
+    "notes/blog.md",
+    "Pasted image 20240602191431.png",
+    "notes/writing-resume.md",
+    "notes/steps of getting an apply institute license.md",
+    "templates/university.md",
+    "notes/application-fees.md",
+    "notes/universities.md",
+    "journal",
+    "templates",
+    "notes",
+    "posts"
+  ]
+}

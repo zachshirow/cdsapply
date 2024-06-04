@@ -15,16 +15,4 @@ draft: false
 
 ## مرور روزانه
 
-## تغییرات امروز امروز
 
-### ایجاد شده
-
-```dataview
-LIST FROM -"Journal" WHERE file.cday = date({{date}}) SORT file.cday ASC
-```
-
-### ویرایش شده
-
-```dataview
-LIST FROM -"Journal" WHERE file.mday = date({{date}}) SORT file.mday ASC
-```
