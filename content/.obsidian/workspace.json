@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/services.md",
+                "file": "notes/writing-resume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b0efd6b39514b7e",
+            "id": "e69cfcce970f3856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab1ef50fd43be794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/cds-sop.md",
+                "file": "notes/writing-sop.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/writing-sop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/writing-sop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/writing-sop.md"
               }
             }
           }
@@ -185,36 +173,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b0efd6b39514b7e",
+  "active": "e69cfcce970f3856",
   "lastOpenFiles": [
-    "notes/article-translation.md",
-    "notes/services.md",
     "notes/cds-sop.md",
+    "notes/writing-resume.md",
+    "notes/resume-components.md",
+    "notes/services.md",
+    "notes/abstract-translation.md",
+    "notes/translation-services.md",
+    "notes/testimonials.md",
+    "templates/post.md",
+    "templates/note.md",
+    "notes/cds-business-plan.md",
+    "notes/country-canada.md",
+    "notes/country-russia.md",
+    "notes/country-uk.md",
+    "posts/visa-interview-questions.md",
+    "notes/countries.md",
     "index.md",
     "journal/2024-06-04.md",
     "notes/license.md",
     "notes/about-us.md",
-    "notes/cds-business-plan.md",
-    "notes/visa-interview-questions.md",
-    "notes/united-kingdom.md",
     "Pasted image 20240604142447.png",
-    "notes/countries.md",
-    "notes/canada.md",
-    "notes/russia.md",
     "notes/student-permit-canada.md",
     "notes/visa.md",
     "notes/لیست دانشگاه ها.md",
     "posts/پرطرفدار ترین رشته ها در کشور روسیه.md",
-    "notes/testimonials.md",
     "journal/2024-06-02.md",
     "templates/dailynote.md",
     "journal/2024-06-03.md",
-    "journal/2024-06-01.md",
-    "notes/blog.md",
     "Pasted image 20240602191431.png",
-    "notes/writing-resume.md",
-    "notes/steps of getting an apply institute license.md",
-    "templates/university.md",
     "journal",
     "templates",
     "notes",

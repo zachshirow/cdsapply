@@ -6,10 +6,10 @@ tags:
   - note
 date: 2024-06-02
 draft: false
+direction: LTR
 ---
 
 
-<div dir="ltr">
 
 
 > "CDS staff answer all your questions in a friendly way and very patiently and do their best to finish the admission and visa application process in the earliest time possible. I heard about CDS from a bank teller and they got me admission and a student visa to Simon Fraser University in Vancouver in less than 2 months which is really amazing and unbelievable"
@@ -65,5 +65,3 @@ draft: false
 > **Jasmin Farhady,** <br />
 > MA candidate, Biophysics,<br />
 > University of Melbourne, Australia
-
-</div>

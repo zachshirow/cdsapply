@@ -5,12 +5,15 @@ aliases:
   - سوالاتی که بیشتر از همه در مصاحبه ویزا پرسیده می شوند
   - 50+1 سوال پرتکرار در جلسه مصاحبه ویزا
 tags:
-  - note
+  - post
 date: 2024-06-04
 draft: false
 ---
 
 با توجه به اینکه عملکرد خوب در مصاحبه گرفتن [[visa|ویزا]] در دریافت آن خیلی به شما کمک خواهد کرد، پرتکرار ترین سوالاتی که در این مصاحبه پرسیده می شوند را گردآوری کرده ایم و با شما به اشتراک می گذاریم. این سوالات رو کپی کنید و جوابتون به اونها رو بنویسید و به خاطر داشته باشید و تمرین کنید. بدین ترتیب عملکردتان در جلسه مصاحبه ویزا بهبود خواهد یافت. 
+
+
+<div dir="ltr">
 
 1. Are You Married? If Yes, What Does Your Spouse Do? For How Long Have You Been Married?
 2. Are You Traveling With Someone Else?
@@ -74,3 +77,4 @@ Other questions might be:
 - Will Your Wife/Husband Go Together With You On Your Trip?
 - I Don’t Think You Will Come Back, What’s Your Comment?
 
+</div>

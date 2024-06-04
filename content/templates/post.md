@@ -5,6 +5,7 @@ tags:
   - post
 date: "{{date}}"
 draft: false
+direction: auto
 ---
 
 
