@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "notes/services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0efd6b39514b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab1ef50fd43be794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/cds-sop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,12 +185,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd8fe69b86473b01",
+  "active": "8b0efd6b39514b7e",
   "lastOpenFiles": [
+    "notes/article-translation.md",
+    "notes/services.md",
+    "notes/cds-sop.md",
+    "index.md",
     "journal/2024-06-04.md",
     "notes/license.md",
     "notes/about-us.md",
-    "index.md",
     "notes/cds-business-plan.md",
     "notes/visa-interview-questions.md",
     "notes/united-kingdom.md",
@@ -173,7 +201,6 @@
     "notes/countries.md",
     "notes/canada.md",
     "notes/russia.md",
-    "notes/services.md",
     "notes/student-permit-canada.md",
     "notes/visa.md",
     "notes/لیست دانشگاه ها.md",
@@ -188,8 +215,6 @@
     "notes/writing-resume.md",
     "notes/steps of getting an apply institute license.md",
     "templates/university.md",
-    "notes/application-fees.md",
-    "notes/universities.md",
     "journal",
     "templates",
     "notes",
