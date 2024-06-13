@@ -3,6 +3,8 @@ title: انگلستان
 aliases:
   - uk
   - united kingdom
+  - انگلیس
+  - انگلستان
 tags:
   - note
   - country

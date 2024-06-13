@@ -50,7 +50,7 @@ direction: LTR
 > Master Student<br />
 > University of Ottawa, Canada
 
-> "I would highly recommend CDS Services to any student interested in pursuing a Masters or PhD program. CDS staff were always accessible, and I was able to develop close friendships with many of my classmates. CDS was always there to help me even after my graduation. Whatever direction you decide to go in after graduation, you'll get the
+> "I would highly recommend CDS Services to any [[client|student]] interested in pursuing a Masters or PhD program. CDS staff were always accessible, and I was able to develop close friendships with many of my classmates. CDS was always there to help me even after my graduation. Whatever direction you decide to go in after graduation, you'll get the
 > support and advice from CDS.
 > 
 > **Ramin Akbari,**<br />

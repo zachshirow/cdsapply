@@ -1,0 +1,42 @@
+{
+  "tags": "",
+  "excludedFolders": "",
+  "ignoredNameContains": "",
+  "outputFormat": "- [[link]]",
+  "appendSpaceAfterHeadings": false,
+  "timeFormat": "YYYY-MM-DD",
+  "autoCreateLogNote": true,
+  "logNoteType": "daily",
+  "writeInterval": 0,
+  "autoCreatePrimaryHeading": true,
+  "primaryHeading": "آخرین ویرایش شده ها",
+  "modifiedHeading": "Modified",
+  "separateCreated": false,
+  "createdHeading": "Created",
+  "separateDeleted": false,
+  "deletedHeading": "Deleted",
+  "lastTrackedDate": "2024-06-13",
+  "trackedFiles": [
+    {
+      "path": "notes/website-roadmap.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/cds.org.ir.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/contact-us.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/Untitled.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    }
+  ],
+  "verboseModeEnabled": false
+}

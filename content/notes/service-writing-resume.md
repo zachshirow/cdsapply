@@ -1,9 +1,10 @@
 ---
 title: نگارش رزومه
 aliases:
- - نگارش رزومه
+  - نگارش رزومه
 tags:
- - note
+  - note
+  - service
 date: 2024-06-02
 draft: false
 direction: auto

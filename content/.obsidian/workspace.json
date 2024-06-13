@@ -4,35 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "06eed97fbe9621eb",
+        "id": "c912ea78a59c0769",
         "type": "tabs",
         "children": [
           {
-            "id": "cd8fe69b86473b01",
+            "id": "2792c598f2797adc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8106bb7f31ce362d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/writing-resume.md",
+                "file": "posts/medicine-dentistry-russia.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e69cfcce970f3856",
+            "id": "3643ce788787c72c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/writing-sop.md",
+                "file": "notes/website-roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8be0fb1fff8283e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/contact-us.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:country",
+                "query": "کلاینت",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,14 +124,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/writing-sop.md",
+                "file": "notes/website-roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -115,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/writing-sop.md",
+                "file": "notes/website-roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/writing-sop.md"
+                "file": "notes/website-roadmap.md"
               }
             }
           }
@@ -173,35 +199,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e69cfcce970f3856",
+  "active": "3643ce788787c72c",
   "lastOpenFiles": [
-    "notes/cds-sop.md",
-    "notes/writing-resume.md",
-    "notes/resume-components.md",
-    "notes/services.md",
-    "notes/abstract-translation.md",
-    "notes/translation-services.md",
-    "notes/testimonials.md",
-    "templates/post.md",
-    "templates/note.md",
-    "notes/cds-business-plan.md",
-    "notes/country-canada.md",
-    "notes/country-russia.md",
-    "notes/country-uk.md",
-    "posts/visa-interview-questions.md",
-    "notes/countries.md",
     "index.md",
-    "journal/2024-06-04.md",
-    "notes/license.md",
+    "notes/website-roadmap.md",
+    "notes/Untitled.md",
+    "posts/medicine-dentistry-russia.md",
+    "notes/contact-us.md",
     "notes/about-us.md",
-    "Pasted image 20240604142447.png",
-    "notes/student-permit-canada.md",
-    "notes/visa.md",
-    "notes/لیست دانشگاه ها.md",
-    "posts/پرطرفدار ترین رشته ها در کشور روسیه.md",
-    "journal/2024-06-02.md",
+    "notes/cds.org.ir.md",
+    "journal/2024-06-13.md",
+    "notes/country-canada.md",
+    "notes/canada-universities.md",
+    "notes/دانشگاه آلبرتا.md",
+    "notes/Ryerson-uni-quick-facts.md",
+    "notes/application-fee.md",
+    "notes/universities.md",
+    "journal/2024-06-12.md",
+    "notes/required-documents.md",
+    "notes/college-program-canada.md",
+    "journal/2024-06-11.md",
+    "notes/license.md",
+    "journal/سلام این یک فایل ایجاد شده است..md",
+    "notes/client.md",
+    "notes/modified.md",
     "templates/dailynote.md",
-    "journal/2024-06-03.md",
+    "notes/what-is-apply.md",
+    "notes/cds-application-fees.md",
+    "notes/cds-study-abroad-consultancy.md",
+    "Pasted image 20240604142447.png",
     "Pasted image 20240602191431.png",
     "journal",
     "templates",

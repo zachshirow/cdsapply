@@ -5,5 +5,6 @@
   "monospaceFontFamily": "Vazir Code",
   "enabledCssSnippets": [
     "style"
-  ]
+  ],
+  "theme": "obsidian"
 }
