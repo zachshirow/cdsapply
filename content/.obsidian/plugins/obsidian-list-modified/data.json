@@ -15,27 +15,17 @@
   "createdHeading": "Created",
   "separateDeleted": false,
   "deletedHeading": "Deleted",
-  "lastTrackedDate": "2024-06-13",
+  "lastTrackedDate": "2024-06-22",
   "trackedFiles": [
     {
-      "path": "notes/website-roadmap.md",
+      "path": "journal/2024-06-19.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/cds.org.ir.md",
-      "supposedList": "deleted",
-      "matchesCriteria": true
-    },
-    {
-      "path": "notes/contact-us.md",
+      "path": "notes/about-us.md",
       "matchesCriteria": true,
       "supposedList": "modified"
-    },
-    {
-      "path": "notes/Untitled.md",
-      "supposedList": "deleted",
-      "matchesCriteria": true
     }
   ],
   "verboseModeEnabled": false

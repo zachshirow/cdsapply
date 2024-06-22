@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8106bb7f31ce362d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/medicine-dentistry-russia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3643ce788787c72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/website-roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be0fb1fff8283e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/contact-us.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/website-roadmap.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/website-roadmap.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/website-roadmap.md"
+                "file": "index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1d1ff01c198575f7",
@@ -196,19 +160,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "3643ce788787c72c",
+  "active": "2792c598f2797adc",
   "lastOpenFiles": [
-    "index.md",
-    "notes/website-roadmap.md",
-    "notes/Untitled.md",
-    "posts/medicine-dentistry-russia.md",
-    "notes/contact-us.md",
+    "journal/2024-06-22.md",
     "notes/about-us.md",
-    "notes/cds.org.ir.md",
+    "notes/website-roadmap.md",
+    "journal/2024-06-19.md",
     "journal/2024-06-13.md",
+    "journal/2024-06-14.md",
+    "journal/2024-06-15.md",
+    "index.md",
+    "notes/contact-us.md",
+    "posts/medicine-dentistry-russia.md",
+    "notes/Untitled.md",
+    "notes/cds.org.ir.md",
     "notes/country-canada.md",
     "notes/canada-universities.md",
     "notes/دانشگاه آلبرتا.md",
@@ -223,10 +191,6 @@
     "journal/سلام این یک فایل ایجاد شده است..md",
     "notes/client.md",
     "notes/modified.md",
-    "templates/dailynote.md",
-    "notes/what-is-apply.md",
-    "notes/cds-application-fees.md",
-    "notes/cds-study-abroad-consultancy.md",
     "Pasted image 20240604142447.png",
     "Pasted image 20240602191431.png",
     "journal",

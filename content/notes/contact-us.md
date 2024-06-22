@@ -11,6 +11,8 @@ draft: false
 
 **برای ما ایمیل بفرستید**
 mazizijam@cdsapply.com
+mazizjam@gmail.com
+
 
 **در هر زمان با ما تماس بگیرید**
 
