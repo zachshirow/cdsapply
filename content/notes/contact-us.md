@@ -31,4 +31,4 @@ mazizjam@gmail.com
 ## شبکه های اجتماعی
 
 https://t.me/cdsapply
-https://insgagram.com/cdsapply
+https://instagram.com/cdsapply

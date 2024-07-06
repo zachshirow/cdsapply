@@ -20,6 +20,42 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d1da1a00df54572c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/who-is-custodian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f70fb2f364e06433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/canada-post-ed-residency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab7b7875c2f0f684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/canada-post-ed-residency-best-methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -50,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "کلاینت",
+                "query": "همراه و یاری گر شما هست",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc9ceb5188ef2e80",
@@ -150,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,32 +203,32 @@
   },
   "active": "2792c598f2797adc",
   "lastOpenFiles": [
-    "journal/2024-06-22.md",
-    "notes/about-us.md",
-    "notes/website-roadmap.md",
-    "journal/2024-06-19.md",
-    "journal/2024-06-13.md",
-    "journal/2024-06-14.md",
-    "journal/2024-06-15.md",
+    "posts/who-is-custodian.md",
+    "posts/canada-post-ed-residency-best-methods.md",
+    "posts/canada-post-ed-residency.md",
     "index.md",
-    "notes/contact-us.md",
-    "posts/medicine-dentistry-russia.md",
-    "notes/Untitled.md",
-    "notes/cds.org.ir.md",
-    "notes/country-canada.md",
-    "notes/canada-universities.md",
-    "notes/دانشگاه آلبرتا.md",
-    "notes/Ryerson-uni-quick-facts.md",
+    "notes/student-visa-sponsor.md",
+    "notes/ielts-toefl-difference.md",
+    "posts/where-to-start-ed-migration.md",
     "notes/application-fee.md",
-    "notes/universities.md",
-    "journal/2024-06-12.md",
-    "notes/required-documents.md",
-    "notes/college-program-canada.md",
-    "journal/2024-06-11.md",
-    "notes/license.md",
-    "journal/سلام این یک فایل ایجاد شده است..md",
-    "notes/client.md",
-    "notes/modified.md",
+    "notes/country-canada.md",
+    "notes/proving-tie.md",
+    "notes/canada-student-visa.md",
+    "journal/2024-07-06.md",
+    "notes/canada-required-docs-application-visa.md",
+    "posts/canada-work.md",
+    "posts/canada-tamakkon-increase.md",
+    "notes/process-duration-factors.md",
+    "notes/CTAs.md",
+    "notes/about-us.md",
+    "notes/slogans.md",
+    "notes/country-with-most-iranians.md",
+    "notes/canada-new-rules.md",
+    "notes/country-uk.md",
+    "posts/american-green-card-lottery.md",
+    "posts/choosing-program.md",
+    "notes/why-study-abroad-with-cds.md",
+    "notes/services.md",
     "Pasted image 20240604142447.png",
     "Pasted image 20240602191431.png",
     "journal",

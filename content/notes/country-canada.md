@@ -13,11 +13,17 @@ draft: false
 ## کانادا
 
 - [[canada-universities|دانشگاه های کانادا]]
-- شهریه دانشگاه ها
-- شرایط زبان کانادا
-- شرایط اخذ پذیرش تحصیلی از کانادا
-- اخذ پذیرش و ویزای تحصیلی کانادا
+- [[canada-tuition|شهریه دانشگاه های کانادا]]
+- [[canada-langage|شرایط زبان کانادا]]
+- [[canada-ed-application-required-info|شرایط اخذ پذیرش تحصیلی از کانادا]]
+- [[canada-ed-application-visa]]
 - پرسش های متداول
 - توصیه های مهم آقای ایروانی
-- مدارک مورد نیاز برای پذیرش و ویزا
+- [[canada-required-docs-application-visa|مدارک مورد نیاز برای پذیرش و ویزا از کانادا]]
 - [[college-program-canada|دوره های کالج کانادا]]
+
+---
+
+[[canada-new-rules]]
+[[canada-student-visa]]
+[[proving-tie]]

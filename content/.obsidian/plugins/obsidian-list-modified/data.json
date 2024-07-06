@@ -15,17 +15,152 @@
   "createdHeading": "Created",
   "separateDeleted": false,
   "deletedHeading": "Deleted",
-  "lastTrackedDate": "2024-06-22",
+  "lastTrackedDate": "2024-07-06",
   "trackedFiles": [
     {
-      "path": "journal/2024-06-19.md",
+      "path": "notes/canada-ed-application-visa.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "notes/country-canada.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-required-docs-application-visa.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/CTAs.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/successful-applications.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/improve-english.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/watch-before-immigration.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/english-youtube-channels.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-work.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/services.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/why-study-abroad-with-cds.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/country-uk.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/choosing-program.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/american-green-card-lottery.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/slogans.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/canada-new-rules.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/country-with-most-iranians.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     },
     {
       "path": "notes/about-us.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "notes/process-duration-factors.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-tamakkon-increase.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/canada-student-visa.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/proving-tie.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/where-to-start-ed-migration.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/application-fee.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/ielts-toefl-difference.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/student-visa-sponsor.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/who-is-custodian.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-post-ed-residency.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-post-ed-residency-best-methods.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "verboseModeEnabled": false
