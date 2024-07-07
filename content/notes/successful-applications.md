@@ -1,7 +1,7 @@
 ---
-title: successful applications
+title: اپلیکیشن های موفق موسسه کندو
 aliases:
-  - successful applications
+  - اپلیکیشن های موفق موسسه کندو
 tags:
   - note
 date: 2024-07-06

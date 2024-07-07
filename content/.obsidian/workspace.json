@@ -22,42 +22,43 @@
             }
           },
           {
-            "id": "d1da1a00df54572c",
+            "id": "6fd3b32b7a5709b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/who-is-custodian.md",
+                "file": "notes/canada-ed-application-visa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f70fb2f364e06433",
+            "id": "199e86afc8e5dc2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/canada-post-ed-residency.md",
+                "file": "journal/2024-07-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab7b7875c2f0f684",
+            "id": "7921d80911a6d9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/canada-post-ed-residency-best-methods.md",
+                "file": "notes/country-canada.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc9ceb5188ef2e80",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "journal/2024-07-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "journal/2024-07-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,12 +164,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "journal/2024-07-07.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1d1ff01c198575f7",
@@ -187,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,20 +199,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "2792c598f2797adc",
+  "active": "199e86afc8e5dc2b",
   "lastOpenFiles": [
-    "posts/who-is-custodian.md",
-    "posts/canada-post-ed-residency-best-methods.md",
-    "posts/canada-post-ed-residency.md",
+    "journal/2024-07-06.md",
     "index.md",
+    "notes/country-canada.md",
+    "notes/canada-ed-application-visa.md",
+    "notes/successful-applications.md",
     "notes/student-visa-sponsor.md",
+    "posts/who-is-custodian.md",
+    "posts/canada-post-ed-residency.md",
+    "posts/canada-post-ed-residency-best-methods.md",
+    "journal/2024-07-07.md",
+    "journal/2024-07-05.md",
     "notes/ielts-toefl-difference.md",
     "posts/where-to-start-ed-migration.md",
     "notes/application-fee.md",
-    "notes/country-canada.md",
     "notes/proving-tie.md",
     "notes/canada-student-visa.md",
-    "journal/2024-07-06.md",
     "notes/canada-required-docs-application-visa.md",
     "posts/canada-work.md",
     "posts/canada-tamakkon-increase.md",
@@ -225,10 +227,6 @@
     "notes/country-with-most-iranians.md",
     "notes/canada-new-rules.md",
     "notes/country-uk.md",
-    "posts/american-green-card-lottery.md",
-    "posts/choosing-program.md",
-    "notes/why-study-abroad-with-cds.md",
-    "notes/services.md",
     "Pasted image 20240604142447.png",
     "Pasted image 20240602191431.png",
     "journal",
