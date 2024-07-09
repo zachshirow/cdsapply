@@ -15,30 +15,115 @@
   "createdHeading": "Created",
   "separateDeleted": false,
   "deletedHeading": "Deleted",
-  "lastTrackedDate": "2024-07-07",
+  "lastTrackedDate": "2024-07-09",
   "trackedFiles": [
     {
-      "path": "journal/2024-07-05.md",
+      "path": "posts/11k-iranians-citizenship-canada.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "journal/2024-07-06.md",
+      "path": "notes/salary-average-canada.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-visa-rejection.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-choosing-program.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-rural-job-offer.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-express-entry.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-post-ed-residency-express-entry.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/student-visa-sponsor.md",
+      "path": "posts/canada-immigration-programs.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-masters-faq.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/country-canada.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/successful-applications.md",
+      "path": "posts/study-in-canada.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/canada-why.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/canada-ed-application-visa.md",
+      "path": "posts/other-countries-medicine-programs.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/canada-job-opportunities-increase.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/tourist-visa-requirements.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/application-requirements.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/Untitled.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/canada-student-visa.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/happy-nowruz.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "journal/2024-07-07.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/index.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     }

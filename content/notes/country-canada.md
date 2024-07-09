@@ -2,6 +2,8 @@
 title: کانادا
 aliases:
   - کانادا
+  - canada
+  - ca
 tags:
   - note
   - country
@@ -24,6 +26,10 @@ draft: false
 
 ---
 
-[[canada-new-rules]]
-[[canada-student-visa]]
-[[proving-tie]]
+[[canada-new-rules|قوانین جدید کانادا در پذیرش دانشجویان خارجی]]
+[[canada-student-visa|هر آنچه باید درباره ویزای تحصیلی کانادا بدانید]]
+[[proving-tie|بررسی اثبات تای (Tie)]]
+
+[[canada-why|چرا تحصیل در کانادا]]
+[[study-in-canada]]
+

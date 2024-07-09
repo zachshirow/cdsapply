@@ -30,7 +30,7 @@ direction: RTL
 - [[services|خدمات ما]]
 - [[testimonials|گواه نوشت]]
 - [[contact-us|تماس با ما]]
-- [وبلاگ](posts)
+- [وبلاگ](posts.md)
 - [یادداشت ها](notes)
 - [ژورنال](journal)
 

@@ -2,6 +2,8 @@
 title: روسیه
 aliases:
   - روسیه
+  - russia
+  - ru
 tags:
   - note
   - country

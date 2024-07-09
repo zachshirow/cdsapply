@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6fd3b32b7a5709b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/canada-ed-application-visa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199e86afc8e5dc2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2024-07-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7921d80911a6d9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/country-canada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "همراه و یاری گر شما هست",
+                "query": "مجوز کندو",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-07-07.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-07-07.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-07-07.md"
+                "file": "index.md"
               }
             }
           }
@@ -199,34 +162,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "199e86afc8e5dc2b",
+  "active": "2792c598f2797adc",
   "lastOpenFiles": [
-    "journal/2024-07-06.md",
-    "index.md",
-    "notes/country-canada.md",
-    "notes/canada-ed-application-visa.md",
-    "notes/successful-applications.md",
-    "notes/student-visa-sponsor.md",
-    "posts/who-is-custodian.md",
-    "posts/canada-post-ed-residency.md",
-    "posts/canada-post-ed-residency-best-methods.md",
+    "journal/2024-07-09.md",
     "journal/2024-07-07.md",
-    "journal/2024-07-05.md",
-    "notes/ielts-toefl-difference.md",
-    "posts/where-to-start-ed-migration.md",
-    "notes/application-fee.md",
-    "notes/proving-tie.md",
+    "posts.md",
+    "posts/index.md",
+    "posts/canada-post-ed-work-permit-application.md",
+    "index.md",
+    "posts/happy-nowruz.md",
+    "notes/country-canada.md",
     "notes/canada-student-visa.md",
-    "notes/canada-required-docs-application-visa.md",
-    "posts/canada-work.md",
-    "posts/canada-tamakkon-increase.md",
-    "notes/process-duration-factors.md",
-    "notes/CTAs.md",
-    "notes/about-us.md",
-    "notes/slogans.md",
-    "notes/country-with-most-iranians.md",
-    "notes/canada-new-rules.md",
-    "notes/country-uk.md",
+    "notes/Untitled.md",
+    "posts/canada-job-opportunities-increase.md",
+    "posts/tourist-visa-requirements.md",
+    "notes/application-requirements.md",
+    "posts/other-countries-medicine-programs.md",
+    "notes/canada-why.md",
+    "posts/study-in-canada.md",
+    "posts/canada-masters-faq.md",
+    "posts/11k-iranians-citizenship-canada.md",
+    "posts/canada-immigration-programs.md",
+    "posts/canada-visa-rejection.md",
+    "posts/canada-choosing-program.md",
+    "posts/canada-rural-job-offer.md",
+    "posts/canada-post-ed-residency-express-entry.md",
+    "posts/canada-express-entry.md",
+    "notes/salary-average-canada.md",
+    "posts/canada-tax-salary-provinces.md",
+    "Pasted image 20240707120146.png",
+    "Pasted image 20240707120413.png",
+    "Pasted image 20240707120155.png",
+    "Pasted image 20240707115924.png",
+    "Pasted image 20240707115323.png",
+    "Pasted image 20240707115618.png",
     "Pasted image 20240604142447.png",
     "Pasted image 20240602191431.png",
     "journal",
