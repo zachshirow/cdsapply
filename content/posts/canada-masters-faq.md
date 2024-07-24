@@ -4,6 +4,8 @@ aliases:
   - پاسخ به سوالات مقطع کارشناسی ارشد کشور کانادا
 tags:
   - post
+  - کانادا
+  - کارشناسی_ارشد
 date: 2024-07-09
 draft: false
 direction: auto

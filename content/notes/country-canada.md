@@ -12,13 +12,57 @@ draft: false
 ---
 
 
-## کانادا
 
+## منوی کانادا
+
+- [x] [[canada-about|درباره کانادا]]
+	- [x] [[canada-weather|آب و هوای کانادا]]
+	- [ ] [[canada-nature-tourism|طبیعت و جاذبه های گردشگری کانادا]]
+- [ ] [[canada-provinces|استان های کانادا]]
+	- [ ] [[british-columbia|استان بریتیش کلمبیا]]
+	- [ ] [[alberta|استان آلبرتا]]
+	- [ ] [[saskatchewan|استان ساسکاچوان]]
+	- [ ] [[manitoba|استان مانیتوبا]]
+	- [ ] [[ontario|استان انتاریو]]
+	- [ ] [[quebec|استان کبک]]
+	- [ ] [[prince-edward|استان پرنس ادوارد]]
+	- [ ] [[new-brunswick|استان نیوبرانزویک]]
+	- [ ] [[nova-scotia|استان نوااسکوشیا]]
+	- [ ] [[newfoundland-and-Labrador|نیوفاندلاند و لابرادور]]
+- [ ] [[canada-study|تحصیل در کانادا]]
+	- [ ] [[canada-edu-system|سیستم آموزشی کانادا]]
+	- [ ] [[canada-study-levels|مقاطع تحصیلی کانادا]]
+		- [ ] [[canada-study-college|تحصیل در کالج های کانادا]]
+		- [ ] [[canada-study-bachelor|تحصیل لیسانس در کانادا]]
+		- [ ] [[canada-study-master|تحصیل فوق لیسانس در کانادا]]
+		- [ ] [[canada-study-phd|تحصیل دکتری در کانادا]]
+	- [ ] [[canada-approved-institutes|مراکز آموزشی معتبر]]
+		- [ ] [[canada-universities|دانشگاه های کانادا]]
+		- [ ] [[canada-colleges|کالج های کانادا]]
+- [ ] [[canada-ed-application|اپلای و اخذ پذیرش تحصیلی کانادا]]
+	- [ ] [[canada-ed-application-visa-required-docs|مدارک لازم برای ویزای تحصیلی کانادا]]
+	- [ ] [[canada-ed-tuition|هزینه تحصیل در کانادا]]
+	- [ ] [[canada-scholarship|بورسیه تحصیلی کانادا]]
+	- [ ] [[canada-top-programs|رشته‌های پرطرفدار کانادا]]
+		- [ ] [[canada-program-medicine|تحصیل در گروه پزشکی در کانادا]]
+	- [ ] [[canada-biometric|انگشت نگاری کانادا]]
+	- [ ] [[canada-language-program|دوره زبان در کانادا]]
+	- [ ] [[canada-study-without-english|تحصیل در کانادا بدون مدرک زبان]]
+- [ ] [[canada-visa-study-permit|ویزای تحصیلی و استادی پرمیت کانادا]]
+	- [ ] [[canada-companion-visa|ویزای همراه کانادا]]
+	- [ ] [[canada-study-permit|قوانین استادی پرمیت کانادا]]
+	- [ ] [[canada-ed-visa-tamakkon|تمکن مالی ویزای تحصیلی کانادا]]
+- [ ] [[canada-student-life|زندگی دانشجویی کانادا]]
+	- [ ] [[canada-student-insurance|بیمه دانشجویی در کانادا]]
+	- [ ] [[canada-student-work|کار دانشجویی در کانادا]]
+	- [ ] [[canada-ed-visa-tamakkon|تمکن مالی ویزای تحصیلی کانادا]]
+
+## منوی سایت cds.org
 - [[canada-universities|دانشگاه های کانادا]]
 - [[canada-tuition|شهریه دانشگاه های کانادا]]
 - [[canada-langage|شرایط زبان کانادا]]
 - [[canada-ed-application-required-info|شرایط اخذ پذیرش تحصیلی از کانادا]]
-- [[canada-ed-application-visa]]
+- [[canada-ed-application-visa-required-docs]]
 - پرسش های متداول
 - توصیه های مهم آقای ایروانی
 - [[canada-required-docs-application-visa|مدارک مورد نیاز برای پذیرش و ویزا از کانادا]]
@@ -26,10 +70,11 @@ draft: false
 
 ---
 
+## محتوای شبکه های اجتماعی cds
 [[canada-new-rules|قوانین جدید کانادا در پذیرش دانشجویان خارجی]]
 [[canada-student-visa|هر آنچه باید درباره ویزای تحصیلی کانادا بدانید]]
 [[proving-tie|بررسی اثبات تای (Tie)]]
 
 [[canada-why|چرا تحصیل در کانادا]]
-[[study-in-canada]]
+[[canada-study]]
 

@@ -8,6 +8,10 @@ draft: false
 direction: auto
 ---
 
+Universities database:
 https://letsgouni.com/schools
+
+Information about canada: 
 https://www.visamondial.com/
+
 

@@ -4,6 +4,8 @@ aliases:
   - اقامت پس از تحصیل در کانادا از طریق اکسپرس انتری
 tags:
   - post
+  - اقامت
+  - ویزا
 date: 2024-07-07
 draft: false
 direction: auto

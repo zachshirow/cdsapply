@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c912ea78a59c0769",
+        "id": "90497cc319630da3",
         "type": "tabs",
         "children": [
           {
-            "id": "2792c598f2797adc",
+            "id": "7937367d48dc96f3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -50,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "مجوز کندو",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +79,16 @@
         "id": "b7c0a0b9127f9f06",
         "type": "tabs",
         "children": [
+          {
+            "id": "8a8ad97d21b1125e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
           {
             "id": "1e580d02e7fc81b3",
             "type": "leaf",
@@ -122,16 +130,19 @@
             }
           },
           {
-            "id": "8a8ad97d21b1125e",
+            "id": "670ceb97b3c0011b",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "index.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1d1ff01c198575f7",
@@ -149,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,34 +173,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "2792c598f2797adc",
+  "active": "7937367d48dc96f3",
   "lastOpenFiles": [
-    "journal/2024-07-09.md",
-    "journal/2024-07-07.md",
-    "posts.md",
-    "posts/index.md",
-    "posts/canada-post-ed-work-permit-application.md",
-    "index.md",
-    "posts/happy-nowruz.md",
-    "notes/country-canada.md",
-    "notes/canada-student-visa.md",
-    "notes/Untitled.md",
-    "posts/canada-job-opportunities-increase.md",
-    "posts/tourist-visa-requirements.md",
-    "notes/application-requirements.md",
-    "posts/other-countries-medicine-programs.md",
-    "notes/canada-why.md",
-    "posts/study-in-canada.md",
-    "posts/canada-masters-faq.md",
-    "posts/11k-iranians-citizenship-canada.md",
-    "posts/canada-immigration-programs.md",
-    "posts/canada-visa-rejection.md",
-    "posts/canada-choosing-program.md",
-    "posts/canada-rural-job-offer.md",
-    "posts/canada-post-ed-residency-express-entry.md",
-    "posts/canada-express-entry.md",
-    "notes/salary-average-canada.md",
-    "posts/canada-tax-salary-provinces.md",
+    "notes/sitemap.md",
+    "notes/canada-student-life.md",
+    "notes/canada-student-insurance.md",
+    "notes/canada-student-work.md",
+    "notes/canada-ed-visa-tamakkon.md",
+    "notes/canada-study-permit.md",
+    "notes/canada-companion-visa.md",
+    "notes/canada-visa-study-permit.md",
+    "notes/canada-study-without-english.md",
+    "notes/canada-language-program.md",
+    "notes/canada-biometric.md",
+    "notes/canada-program-medicine.md",
+    "notes/canada-top-programs.md",
+    "notes/canada-scholarship.md",
+    "notes/canada-ed-tuition.md",
+    "notes/canada-ed-application-visa-required-docs.md",
+    "notes/canada-ed-application.md",
+    "notes/canada-colleges.md",
+    "notes/canada-universities.md",
+    "notes/canada-approved-institutes.md",
+    "notes/canada-study-phd.md",
+    "notes/canada-study-master.md",
+    "notes/canada-study-bachelor.md",
+    "notes/canada-study-college.md",
+    "notes/canada-study-levels.md",
+    "notes/canada-edu-system.md",
+    "attachments/Pasted image 20240724065349.png",
+    "tmp/tmp.rar",
+    "tmp",
+    "attachments",
+    "attachments/Pasted image 20240709115738.png",
     "Pasted image 20240707120146.png",
     "Pasted image 20240707120413.png",
     "Pasted image 20240707120155.png",

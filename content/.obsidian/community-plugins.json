@@ -1,7 +1,7 @@
 [
   "dataview",
   "calendar",
-  "auto-note-mover",
   "table-editor-obsidian",
-  "obsidian-list-modified"
+  "obsidian-list-modified",
+  "auto-note-mover"
 ]

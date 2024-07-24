@@ -22,3 +22,13 @@ draft: false
 | دانشگا تورنتو         | Toronto, Ontario            | 1827      | www.utoronto.ca  |
 | دانشگاه واترلو        | Waterloo, Ontario           | 1957      | www.uwaterloo.ca |
 | دانشگاه وِست آنتاریو  | London, Ontario             | 1878      | www.uwo.ca       |
+
+
+
+
+
+
+---
+
+![[country-canada#منوی کانادا|canada]]
+

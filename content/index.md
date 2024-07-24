@@ -4,6 +4,7 @@ draft: false
 aliases:
   - خانه
   - موسسه اعزام دانشجو کندو
+  - dash
 tags: 
 direction: RTL
 ---
@@ -45,4 +46,4 @@ direction: RTL
 ## پوشه ها
 
 - یادداشت ها: file:D:\obsidian\cdsapply
-- فایل ها: file:D:\zachshirow\Media\2406021723
+- فایل ها: file:D:\zachshirow-media\2406021723

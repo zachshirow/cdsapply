@@ -4,5 +4,6 @@ aliases:
 ---
 
 ```dataview
-TABLE title from "posts"
+TABLE title, tags from "posts"
 ```
+

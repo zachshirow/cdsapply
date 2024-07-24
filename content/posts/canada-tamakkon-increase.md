@@ -4,6 +4,9 @@ aliases:
   - افزایش مبلغ تمکن مورد نیاز برای ویزای دانشجویی کانادا
 tags:
   - post
+  - کانادا
+  - مالی
+  - دانشجو
 date: 2024-07-06
 draft: false
 direction: auto

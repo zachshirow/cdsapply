@@ -1,3 +1,9 @@
 .markdown-preview-view {
     overflow-x: hidden;
 }
+
+/* Making the checklist text not strike through */
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"], .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
+	text-decoration: none;
+}

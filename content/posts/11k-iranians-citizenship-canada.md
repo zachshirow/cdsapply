@@ -4,6 +4,8 @@ aliases:
   - اقامت دائم یازده هزار ایرانی در کانادا در سال گذشته
 tags:
   - post
+  - اقامت
+  - کانادا
 date: 2024-07-09
 draft: false
 direction: auto
