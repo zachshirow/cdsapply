@@ -31,8 +31,8 @@ direction: RTL
 - [[services|خدمات ما]]
 - [[testimonials|گواه نوشت]]
 - [[contact-us|تماس با ما]]
-- [وبلاگ](posts.md)
-- [یادداشت ها](notes)
+- [وبلاگ](posts_dataview.md)
+- [یادداشت ها](notes_dataview.md)
 - [ژورنال](journal)
 
 

@@ -12,7 +12,6 @@ direction: auto
 
 - [x] [[about-us|درباره ما]]
 - [x] [[license|مجوز ها]]
-	- [ ] [[canada-approved-consultants|مشاورین رسمی و مجاز جهت انجام امور مهاجرتی به کانادا]]
 - [ ] [[countries|کشور ها]]
 	- [ ] [[country-canada|کانادا]]
 		![[country-canada#منوی کانادا|canada]]

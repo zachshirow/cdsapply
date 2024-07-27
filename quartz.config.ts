@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "fa-IR",
     baseUrl: "cds.zachshirow.ir",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "attachments"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
