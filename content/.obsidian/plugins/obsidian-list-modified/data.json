@@ -146,6 +146,141 @@
       "path": "posts/2024-canada-student-entry-limit.md",
       "supposedList": "created",
       "matchesCriteria": true
+    },
+    {
+      "path": "posts/cv-cover-letter.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/ed-gap.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/english-youtube-channels.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/happiest-countries-canada-ranking.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/happy-nowruz.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/improve-english.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/increase-application-chance-program-selection.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/index.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/medicine-dentistry-russia.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/russia-top-programs.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/russia-tuition-toman-2024.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/schengen-required-canada.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/solving-ed-gap-problem.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/study-in-toronto-cds.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/study-plan-better-chance.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/uni-mcgill-top-canada.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/uni-toronto-top-in-canada.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/visa-interview-questions.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "templates/dailynote.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "templates/note.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "templates/post.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "templates/university.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "index.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "home",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "home/zachary",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "home/zachary/Documents/zachshirowvault.md",
+      "matchesCriteria": true,
+      "supposedList": "deleted"
+    },
+    {
+      "path": "home/zachary/Documents",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ],
   "verboseModeEnabled": false

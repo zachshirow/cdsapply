@@ -45,5 +45,7 @@ direction: RTL
 
 ## پوشه ها
 
-- یادداشت ها: file:D:\obsidian\cdsapply
+- یادداشت ها (ویندوز): file:D:\obsidian\cdsapply
+- یادداشت ها (لینوکس): file:/home/zachary/Documents/cdsapply
 - فایل ها: file:D:\zachshirow-media\2406021723
+

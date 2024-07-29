@@ -169,11 +169,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "182ed3b030931933",
   "lastOpenFiles": [
+    "home/zachary/Documents/zachshirowvault.md",
+    "index.md",
+    "home/zachary/Documents",
+    "home/zachary",
+    "home",
     "notes/canada-attestation-letter.md",
     "posts/2024-canada-student-entry-limit.md",
     "posts/canada-study.md",
@@ -199,8 +204,6 @@
     "notes/countries.md",
     "notes/canada-provinces.md",
     "notes/newfoundland-and-Labrador.md",
-    "notes/alberta.md",
-    "notes/british-columbia.md",
     "attachments/Pasted image 20240729075053.png",
     "attachments/Pasted image 20240724093929.png",
     "attachments/Pasted image 20240724090715.png",
@@ -216,7 +219,6 @@
     "Pasted image 20240707115323.png",
     "journal",
     "templates",
-    "notes",
-    "posts"
+    "notes"
   ]
 }
