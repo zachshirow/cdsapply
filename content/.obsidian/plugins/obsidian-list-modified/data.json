@@ -15,27 +15,137 @@
   "createdHeading": "Created",
   "separateDeleted": false,
   "deletedHeading": "Deleted",
-  "lastTrackedDate": "2024-07-27",
+  "lastTrackedDate": "2024-07-29",
   "trackedFiles": [
+    {
+      "path": "notes/quebec.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-living-cost.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
     {
       "path": "notes/country-canada.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/manitoba.md",
+      "path": "notes/prince-edward.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/ontario.md",
+      "path": "notes/new-brunswick.md",
       "matchesCriteria": true,
       "supposedList": "modified"
     },
     {
-      "path": "notes/quebec.md",
+      "path": "notes/nova-scotia.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "attachments/Pasted image 20240729075053.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "notes/newfoundland-and-Labrador.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/canada-study.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/british-columbia.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/alberta.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-edu-system.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/countries.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-weather.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/website-roadmap.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-language-program.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/page-grid-code.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-approved-institutes.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "notes/canada-study-levels.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-study-college.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "posts/canada-college-vs-university.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-study-bachelor.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "notes/canada-ed-application-visa-required-docs.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "attachments/SOP-structure.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "notes/canada-attestation-letter.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "posts/2024-canada-student-entry-limit.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "verboseModeEnabled": false
