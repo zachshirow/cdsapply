@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "adc61877b6ac177a",
+        "id": "72ba3146709ffaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "182ed3b030931933",
+            "id": "5a1c76edd2969356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/country-russia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4e7bd30ae30b70a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,35 +185,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "182ed3b030931933",
+  "active": "c4e7bd30ae30b70a",
   "lastOpenFiles": [
-    "notes/canada-attestation-letter.md",
-    "posts/2024-canada-student-entry-limit.md",
+    "notes/country-uk.md",
+    "notes/uk-saorg-approved-universities.md",
+    "notes/uk-universities.md",
+    "notes/uk-ministry-health-approved-universities.md",
+    "notes/country-russia.md",
+    "notes/russia-saorg-approved-universities.md",
+    "notes/دانشگاه های روسیه.md",
+    "notes/resources.md",
     "posts/canada-study.md",
-    "notes/canada-language-program.md",
-    "notes/canada-edu-system.md",
-    "notes/canada-about.md",
-    "notes/canada-ed-application-visa-required-docs.md",
-    "attachments/SOP-structure.pdf",
-    "notes/service-sop.md",
-    "notes/sop-form.md",
+    "notes/england-application-visa.md",
+    "journal/2024-08-01.md",
+    "notes/canada-colleges.md",
     "notes/canada-study-college.md",
-    "notes/canada-study-bachelor.md",
-    "notes/sitemap.md",
-    "notes/canada-required-docs-application-visa.md",
-    "posts/canada-college-vs-university.md",
-    "notes/canada-study-levels.md",
+    "notes/canada-ed-application.md",
+    "notes/canada-nature.md",
+    "journal/2024-07-31.md",
     "notes/country-canada.md",
-    "notes/canada-approved-institutes.md",
-    "notes/page-grid-code.md",
-    "notes/website-roadmap.md",
-    "notes/canada-weather.md",
-    "notes/canada-student-insurance.md",
-    "notes/countries.md",
-    "notes/canada-provinces.md",
-    "notes/newfoundland-and-Labrador.md",
-    "notes/alberta.md",
-    "notes/british-columbia.md",
+    "notes/canada-ed-application-visa-required-docs.md",
+    "notes/college-program-canada.md",
+    "notes/canada-universities.md",
+    "notes/sitemap.md",
+    "notes/canada-study-phd.md",
+    "attachments/Pasted image 20240730103646.png",
+    "notes/gre-exam.md",
+    "notes/required-documents.md",
+    "posts/cv-cover-letter.md",
+    "posts/gpa.md",
+    "attachments/SOP-structure.pdf",
     "attachments/Pasted image 20240729075053.png",
     "attachments/Pasted image 20240724093929.png",
     "attachments/Pasted image 20240724090715.png",
@@ -213,7 +227,6 @@
     "Pasted image 20240707120413.png",
     "Pasted image 20240707120155.png",
     "Pasted image 20240707115924.png",
-    "Pasted image 20240707115323.png",
     "journal",
     "templates",
     "notes",

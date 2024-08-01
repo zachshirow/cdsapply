@@ -5,22 +5,29 @@ aliases:
   - united kingdom
   - انگلیس
   - انگلستان
+  - england
 tags:
   - note
   - country
 date: 2024-06-04
 draft: false
 ---
+- https://letsgouni.com/landing/england/
+- https://go2tr.co/uk
+- https://go2tr.co/uk/study
+- https://go2tr.co/uk/study/university-approved-ministry-health-uk
+- https://go2tr.co/mag/the-cost-of-studying-and-living-in-uk
+
 ## انگلستان
 
-- لیست دانشگاه های انگلیس
+- [[uk-universities|دانشگاه های انگلیس]]
 - شهریه دانشگاه های انگلیس
 - شرایط زبان انگلیس
 - شرایط اخذ پذیرش از انگلیس
 - پذیرش برای مقطع کارشناسی ارشد
 - پذیرش برای مقطع کارشناسی 
 - پرسش های متداول
-- تحصیل و کار در انگلیس
+- کار دانشجویی در انگلیس
 - توصیه های مهم در مورد تحصیل در انگلیس
 
 ---
@@ -84,3 +91,7 @@ draft: false
 اگر قصد تحصیل در انگلیس را دارید می توانید صفر تا صد پذیرش و ویزای تحصیلی از دبستان تا مقاطع تکمیلی را به موسسه کندو بسپارید. 
 
 برای شروع و برنامه ریزی کافیست درخواست مشاوره خود را [از طریق فرم] زیر اعلام کنید. 
+
+---
+
+[[england-application-visa|اخذ پذیرش و ویزا از انگلستان]]
