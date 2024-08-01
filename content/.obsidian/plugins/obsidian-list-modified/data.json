@@ -61,6 +61,16 @@
       "path": "notes/uk-ministry-health-approved-universities.md",
       "supposedList": "created",
       "matchesCriteria": true
+    },
+    {
+      "path": "index.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "journal/2024-07-29.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
     }
   ],
   "verboseModeEnabled": false
